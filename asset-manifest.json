@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/SPA-project/static/css/main.bbd5bcf1.css",
-    "main.js": "/SPA-project/static/js/main.3d07b99f.js",
+    "main.css": "/SPA-project/static/css/main.4b37c661.css",
+    "main.js": "/SPA-project/static/js/main.e68f91e9.js",
     "static/media/vanishing-stripes.png": "/SPA-project/static/media/vanishing-stripes.7c95cc5c660133f157c8.png",
     "static/media/Lalezar.ttf": "/SPA-project/static/media/Lalezar.241ca811c53de4ed36a4.ttf",
     "static/media/abstract-envelope.png": "/SPA-project/static/media/abstract-envelope.621def13fd740597fe0b.png",
@@ -11,11 +11,11 @@
     "static/media/teams.svg": "/SPA-project/static/media/teams.f22740b427531624f02570204c033584.svg",
     "static/media/1.svg": "/SPA-project/static/media/1.2616af1e2b2c33365a46027e8052872a.svg",
     "index.html": "/SPA-project/index.html",
-    "main.bbd5bcf1.css.map": "/SPA-project/static/css/main.bbd5bcf1.css.map",
-    "main.3d07b99f.js.map": "/SPA-project/static/js/main.3d07b99f.js.map"
+    "main.4b37c661.css.map": "/SPA-project/static/css/main.4b37c661.css.map",
+    "main.e68f91e9.js.map": "/SPA-project/static/js/main.e68f91e9.js.map"
   },
   "entrypoints": [
-    "static/css/main.bbd5bcf1.css",
-    "static/js/main.3d07b99f.js"
+    "static/css/main.4b37c661.css",
+    "static/js/main.e68f91e9.js"
   ]
 }
